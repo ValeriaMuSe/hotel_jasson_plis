@@ -1,0 +1,24 @@
+{
+  "name": "hotel_jasson_plis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyrM01/hotel_jasson_plis.git"
+  },
+  "author": "Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyrM01/hotel_jasson_plis/issues"
+  },
+  "homepage": "https://github.com/AndreyrM01/hotel_jasson_plis#readme",
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "sass": "^1.57.1",
+    "server": "^1.0.38"
+  }
+}
